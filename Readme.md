@@ -1,5 +1,5 @@
-Brad DeVries (bjdevrie / section 009)
-Thanhthu Nguyen (nguyents / section 009)
+Brad DeVries (UMID bjdevrie / section 009 / gitID  bjdevrie)
+Thanhthu Nguyen (UMID nguyents / section 009/ gitID thanhthusongnguyen)
 
 Note: Thanthu (Tammy) also previously submitted a project with another student.
 
