@@ -13,7 +13,7 @@ def magic_eight_ball():
 	"Outlook good.", "Yes.", "Signs point to yes.", "Reply hazy, try again.",
 	"Ask again later.", "Better not tell you now.", "Cannot predict now.",
 	"Concentrate and ask again.", "Don't count on it.", "My reply is no.",
-	"My sources say no.", "Outlook not so good.", "Very unlikely."]
+	"My sources say no.", "Outlook not so good.", "Very doubtful."]
 
     # Using random module to select string from list
     print(random.choice(possible_answers))
